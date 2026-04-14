@@ -6,7 +6,7 @@ Nakhon Phanom University, Thailand
 
 ---
 
-Welcome to my GitHub profile. I am a Lecturer and Researcher specialized in the Internet of Things and Embedded Systems. My technical interests include programming with R and Python, Artificial Intelligence, Image Processing, Data Science, and Digital Marketing.
+Welcome to my GitHub profile. I am a Lecturer and Researcher specialized in the Internet of Things and Embedded Systems. My technical interests include programming with C and Python, Artificial Intelligence, Image Processing, Data Science, and Digital Marketing.
 
 Outside of my professional work, I enjoy photography, urban sketching, reading manga, and exploring game consoles. Most of all, I love coffee and coding.
 
