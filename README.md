@@ -16,7 +16,7 @@ Outside of my professional work, I enjoy photography, urban sketching, reading m
 
 ---
 
-### 🛠️ Languages & Technologies I Use
+### Languages & Technologies I Use
 
 #### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
